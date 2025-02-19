@@ -1,7 +1,7 @@
 /*
 Description:  theme for Classes
-Author:       J Neathawk
-Author URI:   https://knighthawk0811.github.io
+Author:       B Licud
+Author URI:   https://github.com/152250294TCD
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 */
@@ -22,7 +22,7 @@ selector {
 >>> COLORS:	  
 ----------------------------------------------------------------
 :root {
-  --color-variable: #ffffff;
+  --color-variable: #d66db2;
 }
 
 
