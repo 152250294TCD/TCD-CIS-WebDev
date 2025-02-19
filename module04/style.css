@@ -9,15 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl.html
 
 
 /*--------------------------------------------------------------
-selector {
-	layout(position)
+body {
+	margin: 
 	
-	content(text)
-	
-	design(background)
-	
-	other(z-index)
-}
 .aside {
 	
 ----------------------------------------------------------------
@@ -25,19 +19,19 @@ selector {
 ----------------------------------------------------------------
 .nav {
 n {
-  color: black;
+  color: #000000;
 }
 
 n:visited {
-  color: black;
+  color: #000000;
 }
 
 n:hover {
-  color: brown;
+  color: #954535;
 }
 
 n:active {
-  color: brown;
+  color: #954535;
 }
 }
 
