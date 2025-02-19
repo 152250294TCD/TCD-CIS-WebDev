@@ -21,8 +21,20 @@ selector {
 ----------------------------------------------------------------
 >>> COLORS:	  
 ----------------------------------------------------------------
-:root {
-  --color-variable: #d66db2;
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
 }
 
 
