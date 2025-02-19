@@ -10,29 +10,20 @@ License URI: http://www.gnu.org/licenses/gpl.html
 
 /*--------------------------------------------------------------
 body {
-	margin: 
+	margin: 0;
+}
+
+{main
+	
 	
 .aside {
 	
 ----------------------------------------------------------------
 >>> COLORS:	  
 ----------------------------------------------------------------
-.nav {
-n {
-  color: #000000;
-}
-
-n:visited {
-  color: #000000;
-}
-
-n:hover {
-  color: #954535;
-}
-
-n:active {
-  color: #954535;
-}
+nav ul { 
+	list-style-type: square;
+	padding-left: 20px;
 }
 
 
