@@ -24,19 +24,19 @@ selector {
 >>> COLORS:	  
 ----------------------------------------------------------------
 .nav {
-a {
+n {
   color: black;
 }
 
-a:visited {
+n:visited {
   color: black;
 }
 
-a:hover {
+n:hover {
   color: brown;
 }
 
-a:active {
+n:active {
   color: brown;
 }
 }
