@@ -13,19 +13,20 @@ body {
 	margin: 0;
 }
 
-{main
+{
+main{
 list-style-type: square;
 	padding-left: 20px;
 text-align: left;
 float: left;
 padding-left: 1rem;
 border: 1px;
-	
+}	
 	
 aside {
 
 text-align: right;
-	
+}
 ----------------------------------------------------------------
 >>> COLORS:	  
 ----------------------------------------------------------------
